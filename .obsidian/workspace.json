@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "03b9ffc96dabdc2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "063e718041468a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f109996b221be0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프롬프트엔지니어링/프롤로그.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프롤로그"
+            }
+          },
+          {
+            "id": "70242fd4c700bab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인공지능개념및용어/기본 용어 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기본 용어 정리"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a1c59c4963611cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f797bf09fef3bed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56416398b13d65ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "071fba1f87f29b08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "bff4c39e70ded9f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b72188dfc7db3c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2f96531ba26cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8711ed0e7fb44a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MarkDown 문법정리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "MarkDown 문법정리 의 백링크"
+            }
+          },
+          {
+            "id": "cac0420b5dbe6309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MarkDown 문법정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "MarkDown 문법정리 의 나가는 링크"
+            }
+          },
+          {
+            "id": "eb9dbee5a815c7d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f4aaaaf605d073d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MarkDown 문법정리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "MarkDown 문법정리 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "70242fd4c700bab1",
+  "lastOpenFiles": [
+    "유튜브 트랜-스크립트 추출기.md",
+    "multiModal_4th/README.md",
+    "multiModal_4th",
+    "인공지능개념및용어/기본 용어 정리.md",
+    "인공지능개념및용어",
+    "프롬프트엔지니어링/프롤로그.md",
+    "첨부파일/소프트웨어작업범위.png",
+    "첨부파일/소프트웨어버전.png",
+    "첨부파일",
+    "Pasted image 20250625093342.png",
+    "옵시디언활용법/MarkDown 문법정리.md",
+    "옵시디언활용법",
+    "프롬프트엔지니어링",
+    "환영합니다!.md"
+  ]
+}
